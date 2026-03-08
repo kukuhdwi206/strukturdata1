@@ -1,5 +1,5 @@
 # tugas1
-Tugas1 dari matak kuliah struktur data yang mengerjakan tentang selection sort
+Tugas1 dari mata kuliah struktur data yang mengerjakan tentang selection sort
 ```
 package slectionsort;
 
